@@ -19,7 +19,7 @@ To design and test the performance of integrator and differentiator circuits usi
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 1 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1K,10K,100K  | 2 |
+| 6 | Resistors | 1.5K,15K,100K  | 2 |
 | 7 | capacitors | 0.1µF,0.01µF | 1 |
 | 8 | Connecting wires and probes | As required | — |
 
@@ -61,12 +61,14 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e1322977-e090-4549-b076-ff70a27a52ce" />
 
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+<img width="1256" height="1080" alt="image" src="https://github.com/user-attachments/assets/36579475-9e58-4278-be36-42ff75b13c15" />
+<img width="1278" height="1080" alt="image" src="https://github.com/user-attachments/assets/62c08f59-c258-4137-813e-86863c9d71c5" />
 
 ---
 **DATE:**  
@@ -87,7 +89,7 @@ To design and test the performance of integrator and differentiator circuits usi
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 1 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1K,10K,100K  | 2 |
+| 6 | Resistors | 1.5K,15K,100K  | 2 |
 | 7 | capacitors | 0.1µF,0.01µF | 1 |
 | 8 | Connecting wires and probes | As required | — |
 
@@ -105,7 +107,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
+<img width="828" height="1280" alt="image" src="https://github.com/user-attachments/assets/ddb39ac1-772c-4134-bbca-217fea4db6fc" />
 
 
 
@@ -145,13 +147,13 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+ <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0db7335f-4346-4f85-8d8c-e095b62dcf9e" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1280" height="1048" alt="image" src="https://github.com/user-attachments/assets/df86c207-22b1-42c3-bc85-c8476a0ab89a" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/80596c55-b6ad-4b07-8574-f0c36146586b" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0aa356be-ee65-47b3-aad1-0eaa3aef35ea" />
 
 ---
 
