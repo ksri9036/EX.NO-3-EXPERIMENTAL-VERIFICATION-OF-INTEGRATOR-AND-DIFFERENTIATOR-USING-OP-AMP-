@@ -49,8 +49,8 @@ CIRCUIT DIAGRAM
 ## DESIGN
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
-We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
-We get , R1 =	and hence Rf = 	
+We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 1KHz	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
+We get , R1 =1.5K	and hence Rf = 15K	
 
 ## PROCEDURE
 
@@ -61,7 +61,7 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e1322977-e090-4549-b076-ff70a27a52ce" />
+![WhatsApp Image 2025-11-30 at 3 28 38 PM (2)](https://github.com/user-attachments/assets/0406d6e6-2ce8-417c-91f2-1929b0441b6f)
 
 
 ---
@@ -107,7 +107,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="828" height="1280" alt="image" src="https://github.com/user-attachments/assets/ddb39ac1-772c-4134-bbca-217fea4db6fc" />
+![WhatsApp Image 2025-11-30 at 3 28 38 PM (1)](https://github.com/user-attachments/assets/6e048e77-218d-4ea8-ad38-9db3587a7232)
 
 
 
@@ -132,9 +132,9 @@ AND
 Design an op-amp differentiator that will differentiate an input signal with fmax = 100HZ Select fa = fmax = 100 HZ = 1 / 2πRFC1
 Let C1 = 0.1μF
 Then RF = 1 / 2π(102)(10-7)
-= 15.9KΩ
+= 15KΩ
 Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
-= 1.59KΩ Since RFCF = R1C1
+= 1.5KΩ Since RFCF = R1C1
 We get, CF = (1.59*103*10-7) / 15.9*103
 = 0.01μF
 
@@ -147,7 +147,7 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
- <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0db7335f-4346-4f85-8d8c-e095b62dcf9e" />
+![WhatsApp Image 2025-11-30 at 3 28 38 PM](https://github.com/user-attachments/assets/a5a81ac7-9954-4051-9db7-d8d669995d1e)
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
