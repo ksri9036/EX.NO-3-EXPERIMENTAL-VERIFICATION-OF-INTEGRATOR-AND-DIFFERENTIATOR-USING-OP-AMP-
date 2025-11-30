@@ -1,7 +1,6 @@
-3. ##**EX.NO:
-** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
+3. ## **EX.NO:** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
             
-**DATE:**  
+## **DATE:** 6.9.2025 
              3A INTEGRATOR
 ---
 
@@ -71,7 +70,7 @@ We get , R1 =1.5K	and hence Rf = 15K
 <img width="1278" height="1080" alt="image" src="https://github.com/user-attachments/assets/62c08f59-c258-4137-813e-86863c9d71c5" />
 
 ---
-**DATE:**  
+## **DATE:** 13.9.2025 
              3 B DIFFERENTIATOR
 ---
 
