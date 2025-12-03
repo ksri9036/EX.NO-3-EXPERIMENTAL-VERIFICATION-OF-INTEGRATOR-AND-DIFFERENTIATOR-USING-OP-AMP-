@@ -50,6 +50,8 @@ CIRCUIT DIAGRAM
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 1KHz	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
 We get , R1 =1.5K	and hence Rf = 15K	
+![WhatsApp Image 2025-12-03 at 13 12 56_87da6b70](https://github.com/user-attachments/assets/e53d91ef-58df-49fe-a6f8-17f7011c5030)
+
 
 ## PROCEDURE
 
@@ -136,6 +138,7 @@ Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
 = 1.5KΩ Since RFCF = R1C1
 We get, CF = (1.59*103*10-7) / 15.9*103
 = 0.01μF
+![WhatsApp Image 2025-12-03 at 13 12 56_87da6b70](https://github.com/user-attachments/assets/7e0f4dfd-df79-4cc1-8234-ee4c48980e9c)
 
 
 ## PROCEDURE
